@@ -8,3 +8,4 @@
 ## Learning Rate parametresini çeşitli denemeler sonucunda "0.0001" olarak belirledim.
 ## Batch Size parametresini 16-32-64-128 değerleriyle denedikten sonra accuracy scorelarına önemsenmeyecek derecede etkisi olduğunu fark ettim ve "64" olarak belirledim.
 ## Optimizer olarak çoğu modelde kullanılan ve en optimal sonucu veren "Adam" optimizerini kullandım.
+# Geri Dönütlerinizi bildirirseniz sevinirim
